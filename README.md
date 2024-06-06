@@ -4,3 +4,7 @@
 
 
 分别安装 Release 里面的两个deb文件，安装后记得重新插拔下 手机的USB线
+
+
+
+![](https://raw.githubusercontent.com/DargonLee/XocdeDebugRootless/main/screenshot.png)
