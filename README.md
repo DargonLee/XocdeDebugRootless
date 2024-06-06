@@ -7,4 +7,4 @@
 
 
 
-![](screenshot.png)
+![](screenshot.jpg)
