@@ -7,4 +7,4 @@
 
 
 
-![](https://raw.githubusercontent.com/DargonLee/XocdeDebugRootless/main/screenshot.png)
+![](screenshot.png)
