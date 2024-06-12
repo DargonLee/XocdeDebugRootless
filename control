@@ -1,0 +1,9 @@
+Package: com.yourcompany.xcodedebugrootless
+Name: XcodeDebugRootless
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Harlans
+Author: Harlans
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
