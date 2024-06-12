@@ -1,4 +1,4 @@
-# XocdeDebugRootless
+# XcodeDebugRootless
 
 基于 iOS15 Dopamine 越狱的基础上实现，Xcode 调试任意 App
 
