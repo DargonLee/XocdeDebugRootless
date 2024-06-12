@@ -17,13 +17,13 @@
 ### 手动安装
 
 - ```shell
-  shell
   git clone https://github.com/DargonLee/XocdeDebugRootless
   cd XocdeDebugRootless
   ```
 - ```shell
   make clean
-  make
+  make 
+  make build
   make package
   ```
 - 拷贝 `com.yourcompany.xcodedebugrootless_0.0.1-1+debug_iphoneos-arm64.deb`到手机上，使用 `Filza`安装或者使用 `dkpg`进行安装
